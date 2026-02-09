@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/room-expense-/static/css/main.40f9038f.css",
-    "main.js": "/room-expense-/static/js/main.893f353a.js",
-    "static/js/453.53b2ba96.chunk.js": "/room-expense-/static/js/453.53b2ba96.chunk.js",
-    "index.html": "/room-expense-/index.html",
-    "main.40f9038f.css.map": "/room-expense-/static/css/main.40f9038f.css.map",
-    "main.893f353a.js.map": "/room-expense-/static/js/main.893f353a.js.map",
-    "453.53b2ba96.chunk.js.map": "/room-expense-/static/js/453.53b2ba96.chunk.js.map"
+    "main.css": "/room-expense/static/css/main.40f9038f.css",
+    "main.js": "/room-expense/static/js/main.55040119.js",
+    "static/js/453.53b2ba96.chunk.js": "/room-expense/static/js/453.53b2ba96.chunk.js",
+    "index.html": "/room-expense/index.html",
+    "main.40f9038f.css.map": "/room-expense/static/css/main.40f9038f.css.map",
+    "main.55040119.js.map": "/room-expense/static/js/main.55040119.js.map",
+    "453.53b2ba96.chunk.js.map": "/room-expense/static/js/453.53b2ba96.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.40f9038f.css",
-    "static/js/main.893f353a.js"
+    "static/js/main.55040119.js"
   ]
 }
